@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  *_puts_recursion - A fuction that prints a string
+ *@s: the parameter that takes argurment
  *Return: void
  */
 void _puts_recursion(char *s)
